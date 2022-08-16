@@ -1,0 +1,22 @@
+.nombColor{
+    color:chocolate;
+    font-size: 35px;
+}
+
+.hexa
+{
+    color: #00ced1;
+    font-size: 35px;
+}
+
+.rgb
+{
+    color: rgb(50,453,56);
+    font-size: 35px;
+}
+
+.rgba
+{
+    color: rgba(34, 36, 198, 0.5);
+    font-size: 35px;
+}

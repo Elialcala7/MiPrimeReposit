@@ -1,0 +1,15 @@
+:root{
+    --variable-color: purple;
+}
+h1{
+    color: var(--variable-color);
+}
+h2{
+    color:var(--variable-color);
+}
+h3{
+    color: var(--variable-color1,green);
+}
+p{
+    color: aqua;
+}

@@ -1,0 +1,21 @@
+h1{
+    color:blueviolet;
+    font-size: 20px;
+  }
+
+#unico
+{
+  font-size: 20px;
+  color:blue;
+}
+
+.textoColor
+{
+  color:chartreuse;
+  font-size: 20px;
+}
+
+.fondo
+{
+  background: #444;
+}

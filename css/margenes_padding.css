@@ -1,0 +1,20 @@
+
+h1{
+    background: #355764; /*Fondos*/
+    margin-top: 100px; /*Margen superior*/
+    margin-bottom: 100px; /*Margen inferior*/
+    margin-left: 300px; /*Margen izquierdo*/
+    margin-right: 200px; /*Margen derecho*/
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-right: 23px;
+}
+
+p{
+    background: #5A8F7B;
+    margin: 250px 15px 150px 500px; /*Margenes en una sola linea*/
+    padding: 100px;
+}
+
+/*Los Margenes son EXTERNOS*/
+/*Padding son margenes INTERNOS*/
